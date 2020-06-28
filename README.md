@@ -11,7 +11,7 @@ If you would like an easy one click installation process, connect to our content
 2. Launch GitHub Desktop.
 3. Press `CTRL + SHIFT + O`.
 4. You will see 3 tabs (GitHub.com, GitHub Enterprise Server and URL). Click on `URL`.
-5. Enter `TitanTF/DLC` under the first "Repository URL or GitHub username and repository" entry.
+5. Enter `TitanTF/Titan-DLC` under the first "Repository URL or GitHub username and repository" entry.
 6. Find your tf/custom folder location and place it in the second entry below. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 7. Click on `Clone` and the content will start downloading.
 8. Go to [Titan.TF Settings](https://titan.tf/settings) and click on the "Items" tab.
@@ -26,7 +26,7 @@ The process is the same as the installation. Simply connect to the content distr
 
 #### Manual
 1. Launch GitHub Desktop.
-2. Under the "Current Repository" option at the top left of the interface, make sure it is set to `DLC`. If it is not, click on it and change to the DLC repository.
+2. Under the "Current Repository" option at the top left of the interface, make sure it is set to `Titan-DLC`. If it is not, click on it and change to the DLC repository.
 3. You will see "Fetch Origin" or "Pull Origin" 2 options to the right of Step 2.
 4. If it says "Fetch Origin", click on it and it should show "Pull Origin" if there is an update.
 5. If it already says "Pull Origin", click on it and it will start updating.
