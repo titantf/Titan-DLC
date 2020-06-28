@@ -1,5 +1,5 @@
 ## Titan.TF DLC
-This is the optional content pack for Titan.TF servers. The installation of this pack is required in order to see and hear custom content on our servers.
+This is the optional content pack for Titan.TF servers. The installation of this pack is required in order to see and hear custom content on our servers. Content includes all items found in the Titan universe and Mann vs Machine icons, sounds and models.
 
 ### Installation
 ---
