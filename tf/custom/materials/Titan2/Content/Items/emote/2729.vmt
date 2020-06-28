@@ -1,8 +1,0 @@
-"Sprite"
-{
-	"$basetexture" "Titan2/Content/Items/emote/2729"
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$translucent" 1
-}
-
