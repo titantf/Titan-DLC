@@ -1,5 +1,5 @@
 ## Titan.TF DLC
-This is the optional content pack for Titan.TF servers. The installation of this pack is required in order to see and hear custom content on our servers.
+This is the optional content pack for Titan.TF servers. The installation of this pack is required in order to see and hear custom content on our servers. Content includes all items found in the Titan universe and Mann vs Machine icons, sounds and models.
 
 ### Installation
 ---
@@ -27,9 +27,11 @@ The process is the same as the installation. Simply connect to the content distr
 #### Manual
 1. Launch GitHub Desktop.
 2. Under the "Current Repository" option at the top left of the interface, make sure it is set to `DLC`. If it is not, click on it and change to the DLC repository.
-3. You will see "Pull Origin" 2 options to the right of Step 2 if there is an update.
-4. Go to [Titan.TF Settings](https://titan.tf/settings) and click on the "Items" tab.
-5. Check the `Custom Item Sounds` checkbox.
+3. You will see "Fetch Origin" or "Pull Origin" 2 options to the right of Step 2.
+4. If it says "Fetch Origin", click on it and it should show "Pull Origin" if there is an update.
+5. If it already says "Pull Origin", click on it and it will start updating.
+6. Go to [Titan.TF Settings](https://titan.tf/settings) and click on the "Items" tab.
+7. Check the `Custom Item Sounds` checkbox.
 
 ## Troubleshooting
 There may be some issues with your installation preventing you from seeing and hearing the custom content. But before that, make sure the `Custom Item Sounds` checkbox is checked in your [Titan.TF Settings](https://titan.tf/settings).
