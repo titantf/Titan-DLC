@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_sentry_buster_active"
+	"$baseTexture" "hud/leaderboard_class_sentry_buster_active"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_thanos_heavy_thanos_heavy"
+	"$baseTexture" "hud/leaderboard_class_thanos_heavy_thanos_heavy"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

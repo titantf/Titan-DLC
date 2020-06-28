@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_demoknight_heal"
+	"$baseTexture" "hud/leaderboard_class_demoknight_heal"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

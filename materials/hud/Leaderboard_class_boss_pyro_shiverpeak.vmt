@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\Leaderboard_class_boss_pyro_shiverpeak"
+	"$baseTexture" "hud/leaderboard_class_boss_pyro_shiverpeak"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

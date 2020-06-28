@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_barrage_infinity"
+	"$baseTexture" "hud/leaderboard_class_barrage_infinity"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

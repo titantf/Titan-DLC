@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_soldier_backup_blast_heal_spammer_reload"
+	"$baseTexture" "hud/leaderboard_class_soldier_backup_blast_heal_spammer_reload"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

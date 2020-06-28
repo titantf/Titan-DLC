@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_scout_wrapassassin"
+	"$baseTexture" "hud/leaderboard_class_scout_wrapassassin"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

@@ -1,12 +1,10 @@
-UnlitGeneric
+"UnlitGeneric"
 {
-	$basetexture "hud/leaderboard_class_spy_enforcer_nys"
-
-	$translucent 1
-
-	$vertexcolor 1
-	$ignorez 1
-	$no_fullbright 1
-
-	%keywords "tf"
+	"$baseTexture" "hud/leaderboard_class_spy_enforcer_nys"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
 }
+

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "hud\leaderboard_class_heavy_wildfire_chief"
+	"$basetexture" "hud/leaderboard_class_heavy_wildfire_chief"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

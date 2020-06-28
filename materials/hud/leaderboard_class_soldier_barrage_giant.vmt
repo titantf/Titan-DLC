@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "HUD/leaderboard_class_soldier_barrage"
+	"$baseTexture" "hud/leaderboard_class_soldier_barrage"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

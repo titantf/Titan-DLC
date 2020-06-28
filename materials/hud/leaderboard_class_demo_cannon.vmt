@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_demo_cannon"
+	"$baseTexture" "hud/leaderboard_class_demo_cannon"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

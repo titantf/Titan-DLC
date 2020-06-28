@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "hud\leaderboard_class_soldier_spammer_armored"
+	"$basetexture" "hud/leaderboard_class_soldier_spammer_armored"
 	"%keywords" "tf"
 	"$translucent" 1
 	"$vertexcolor" 1

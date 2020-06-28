@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_soldier_samurai_conch"
+	"$baseTexture" "hud/leaderboard_class_soldier_samurai_conch"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

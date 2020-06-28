@@ -1,9 +1,9 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud/leaderboard_class_demo_burst_heal"
+	"$basetexture" "hud/leaderboard_class_demo_burst_heal"
+	"%keywords" "tf"
+	"$translucent" 1
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
-	"%keywords" "tf"
-	"$translucent" 1
 }

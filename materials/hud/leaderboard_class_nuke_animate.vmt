@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_nuke_animate"
+	"$baseTexture" "hud/leaderboard_class_nuke_animate"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

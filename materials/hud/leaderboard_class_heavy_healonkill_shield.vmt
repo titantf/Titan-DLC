@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_heavy_healonkill_shield"
+	"$baseTexture" "hud/leaderboard_class_heavy_healonkill_shield"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_hellmet_zap"
+	"$baseTexture" "hud/leaderboard_class_hellmet_zap"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

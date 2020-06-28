@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\Leaderboard_class_scout_fan_upgraded"
+	"$baseTexture" "hud/leaderboard_class_scout_fan_upgraded"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

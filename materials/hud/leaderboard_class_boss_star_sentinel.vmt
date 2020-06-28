@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_boss_star_sentinel"
+	"$baseTexture" "hud/leaderboard_class_boss_star_sentinel"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

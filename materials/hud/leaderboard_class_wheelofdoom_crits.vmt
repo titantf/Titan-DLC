@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_wheelofdoom_crits"
+	"$baseTexture" "hud/leaderboard_class_wheelofdoom_crits"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

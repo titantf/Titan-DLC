@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\Leaderboard_class_heavy_shotgun_scatterblast"
+	"$baseTexture" "hud/leaderboard_class_heavy_shotgun_scatterblast"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

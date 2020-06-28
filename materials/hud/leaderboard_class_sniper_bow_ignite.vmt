@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_sniper_bow_ignite"
+	"$baseTexture" "hud/leaderboard_class_sniper_bow_ignite"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
