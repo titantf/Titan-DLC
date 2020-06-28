@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hud/leaderboard_class_special_blimp"
+	"$translucent" 1
+}

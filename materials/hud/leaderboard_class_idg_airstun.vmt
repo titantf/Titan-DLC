@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements\tf_soldier_kill_airborne_with_direct_hit"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
+

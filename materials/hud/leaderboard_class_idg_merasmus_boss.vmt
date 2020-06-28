@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\achievements\tf_halloween_merasmus_kill"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
+

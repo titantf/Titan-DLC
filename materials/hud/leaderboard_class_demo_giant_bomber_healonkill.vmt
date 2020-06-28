@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "hud\leaderboard_class_demo_giant_bomber_healonkill"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}

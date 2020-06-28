@@ -1,0 +1,10 @@
+//Made by Benoist3012
+"UnlitGeneric"
+{
+	"$baseTexture" "hud\leaderboard_class_soldier_mangler_benoist"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
