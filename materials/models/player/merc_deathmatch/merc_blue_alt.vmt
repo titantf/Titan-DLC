@@ -1,0 +1,43 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\merc_deathmatch\merc_blue_alt"
+	"$bumpmap" "models\player\merc_deathmatch\merc_alt_bumpmap"
+	"$basemapalphaphongmask" "0"
+//	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
+//	"$detailscale" "5"
+//	"$detailblendfactor" .01
+//	"$detailblendmode" 6
+	
+	"$phong" "1"
+	"$phongexponenttexture" "models\player\merc_deathmatch\merc_alt_exp"
+	"$phongboost" "0.87"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1.1"										// Boost for ambient cube component of rim lighting
+	"$rimmask" "1"  
+
+	
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"spy_invis"
+		{
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+		"BurnLevel"
+		{
+			"resultVar" "$detailblendfactor"
+		}
+	}
+}

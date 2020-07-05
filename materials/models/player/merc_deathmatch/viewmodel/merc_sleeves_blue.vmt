@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\merc_deathmatch\viewmodel\merc_sleeves_blue"
+	"$bumpmap" "models\player\merc_deathmatch\viewmodel\merc_sleeves_normal"
+
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" "0.04"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "15"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".4"										// Boost for ambient cube component of rim lighting
+}
