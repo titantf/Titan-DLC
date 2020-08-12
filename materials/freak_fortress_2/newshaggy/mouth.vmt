@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2\newshaggy\mouth"
+	"$nocull" 1
+                "$halflambert" 1
+}

@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	$basetexture 		"freak_fortress_2/thanos/thanos_helmet"
+	$bumpmap 		"freak_fortress_2/thanos/thanos_helmet_n"
+	//$basealphaenvmapmask 1
+	
+	$phong "1" 								//enable phong
+	$phongboost "5"	
+	$phongexponent "10"
+	$phongtint "[1 .5 .25]"							//nice high phongboost, toned down in the alpha channel of normalmap
+	$phongfresnelranges "[0.25 0.75 1.00]" 						//increase phong intensity at grazing angles
+	$phongalbedotint "1" 							//use albedotint from our exponent texture
+	
+	//$envmap "models\overwatch\genji\young_genji\pbr\painted_silver.hdr" 
+	$envmap "cubemaps/cubemap_specular001" 			//use envmap because why not
+	$normalmapalphaenvmapmask "1" 						//use same intensity as phong
+	$envmapfresnel "1"								//increase highlights at grazing angles, just like phong
+	$envmaptint "[.05 .05 .05]"
+
+	//$emissiveBlendEnabled 1 								//enable this weird version of selfillum
+	//$emissiveBlendTexture     "dev/null" 							//ignore this for now, it's hacky
+	//$emissiveBlendBaseTexture	"freak_fortress_2/thanos/infinity_gauntlet_g" 	//use your _g as the overlay
+	//$emissiveBlendFlowTexture  "dev/null" 							//ignore this, it's only used in certain cases
+	//$emissiveBlendTint "[5 5 5]" 								//full glow brightness
+	//$emissiveBlendStrength 0.5 								//half glow intensity ( don't worry, still plenty, don't want to go up to 1 )
+	//$emissiveBlendScrollVector "[0 0]"							//don't scroll it around
+}

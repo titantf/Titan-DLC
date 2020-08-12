@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "freak_fortress_2\samandmax\body"
+	"$bumpmap" "freak_fortress_2\samandmax\bodynormal"
+	"$model" "1"
+	"$nocull" 1
+	//"$lightwarptexture" "freak_fortress_2\samandmax\lightwarp"
+ 	                "$halflambert" "1"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.05 .2 1]"
+	"$phongalbedotint" "1"	
+"$rimlight" "1" 
+"$rimlightexponent" "3" 
+"$rimlightboost" "1" 
+
+ 	"$phong" 			"1"
+	"$phongexponent" 		"1.5"
+	"$phongtint"		"[.50 .50 .80]"
+
+	"$rimlight"			"1"
+	"$rimlightexponent"	"2"	
+	"$rimlightboost"		"4"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "freak_fortress_2\newshaggy\hair_ssj3"
+    	 "$bumpmap" "freak_fortress_2\newshaggy\hair_ssj3_normal"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[.2 .6  1]"
+   	 "$halflambert" 1
+}

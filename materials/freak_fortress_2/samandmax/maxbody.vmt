@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "freak_fortress_2\samandmax\maxbody"
+	"$bumpmap" "freak_fortress_2\samandmax\maxbodynormal"
+
+	"$model" "1"
+	"$halflambert" "1"
+	"$nocull" 1
+	"$phong" "1"
+	"$phongalbedotint" "1"	
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "0.5"	
+	//"$lightwarptexture" "freak_fortress_2\samandmax\lightwarp"
+	"$phongfresnelranges"	"[.3 1 4]"
+
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "2"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"
+}
