@@ -26,7 +26,7 @@ If you would like an easy one click installation process, connect to our content
 4. Extract the contents of the zip file into the newly created `Titan DLC` folder.
 
 #### Manual via Google Drive
-1. Click [here](https://drive.google.com/file/d/1usO3oWNrp6cDsO68yTRWTtwtI4NKAGHu/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
+1. Click [here](https://drive.google.com/file/d/1Mv4h9-RJvHFB5XSqNyGotnHh3nuIaET1/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
 2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Extract the contents of the zip file into your `tf/custom` folder.
 
@@ -54,7 +54,7 @@ The process is the same as the installation. Simply connect to the content distr
 5. Extract the contents of the zip file into the `Titan DLC` folder.
 
 #### Manual via Google Drive
-1. Click [here](https://drive.google.com/file/d/1usO3oWNrp6cDsO68yTRWTtwtI4NKAGHu/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
+1. Click [here](https://drive.google.com/file/d/1Mv4h9-RJvHFB5XSqNyGotnHh3nuIaET1/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
 2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Go to your `tf/custom` folder named `Titan DLC` you created during installation.
 4. Wipe all files inside your `Titan DLC` folder.
