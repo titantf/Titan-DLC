@@ -5,6 +5,13 @@ This is the optional content pack for Titan.TF servers. The installation of this
 
 ### Installation
 ---
+#### Tutorial: How to find your `tf/custom` folder
+If you already know how to do this, skip ahead.
+1. Go to your Steam library and right click on Team Fortress 2.
+2. Click properties and a small window will appear.
+3. Go to the `Local Files` tab.
+4. Click `Browse Local Files`.
+
 #### Automatic (Recommended)
 If you would like an easy one click installation process, connect to our content distributor server (IP: **download.titan.tf:11111**). To connect to a TF2 server via the IP address, type `connect download.titan.tf:11111` into your Team Fortress 2 developer console.
 
