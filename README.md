@@ -15,9 +15,10 @@ If you would like an easy one click installation process, connect to our content
 4. You will see 3 tabs (GitHub.com, GitHub Enterprise Server and URL). Click on `URL`.
 5. Enter `TitanTF/Titan-DLC` under the first "Repository URL or GitHub username and repository" entry.
 6. Find your tf/custom folder location and place it in the second entry below. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
-7. Click on `Clone` and the content will start downloading.
-8. Go to [Titan.TF Settings](https://titan.tf/settings) and click on the "Items" tab.
-9. Check the `Custom Item Sounds` checkbox.
+7. Make sure the entry ends with a new folder name such as `Titan DLC`. For example, `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Titan DLC` so that it will install into a new folder within tf/custom. Mods will not work when they are solely placed into the tf/custom folder!
+8. Click on `Clone` and the content will start downloading.
+9. Go to [Titan.TF Settings](https://titan.tf/settings) and click on the "Items" tab.
+10. Check the `Custom Item Sounds` checkbox.
 
 #### Manual via GitHub #2
 1. Click [here](https://github.com/TitanTF/Titan-DLC/archive/master.zip) to download the whole pack from this repository.
