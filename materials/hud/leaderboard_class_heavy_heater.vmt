@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud/leaderboard_class_heavy_heater"
+	"$baseTexture" "hud\leaderboard_class_heavy_heater"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

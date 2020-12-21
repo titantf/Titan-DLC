@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2\santa\lyraplushtex"
+	"$surfaceprop" "Carpet"
+	"$ambientoccltexture" "freak_fortress_2\santa\lyraplush_ao"
+	"$ambientocclusion" "1"
+}

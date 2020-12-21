@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\santa\boobot"	
+                "$bumpmap" "freak_fortress_2\santa\robut_norm"
+                  "$phongexponenttexture" "freak_fortress_2\santa\robut_norm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "1"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+
+}

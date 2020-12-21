@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/Leaderboard_class_pyro_flare_rain_giant"
+	"$translucent" 1
+}

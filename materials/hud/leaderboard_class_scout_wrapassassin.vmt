@@ -1,18 +1,5 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud/leaderboard_class_scout_wrapassassin"
-	"$vertexcolor" 1
-	"$no_fullbright" 1
-	"$ignorez" 1
-	"%keywords" "tf"
+	"$basetexture" "HUD/Leaderboard_class_scout_wrapassassin"
 	"$translucent" 1
-   "Proxies"
-   {
-      "AnimatedTexture"
-      {
-         "animatedtexturevar" "$basetexture"
-         "animatedtextureframenumvar" "$frame"
-         "animatedtextureframerate" "1"
-      }
-   }
 }
