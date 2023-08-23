@@ -58,17 +58,21 @@ The process is the same as the installation. Simply connect to the content distr
 
 #### Manual via GitHub #2
 1. Click [here](https://github.com/TitanTF/Titan-DLC/archive/master.zip) to download the whole pack from this repository.
-2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
+2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64-bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Go to your `tf/custom` folder named `Titan DLC` you created during installation.
 4. Wipe all files inside your `Titan DLC` folder.
 5. Extract the contents of the zip file into the `Titan DLC` folder.
+6. Go to [titan.tf Settings](https://titan.tf/settings/game#sounds) and click on the "Items" tab.
+7. Check the `Custom Item Sounds` checkbox.
 
 #### Manual via Google Drive
 1. Click [here](https://drive.google.com/file/d/1KtpJMRXtONS_ZC06o5l57xxyXKcCj_jl/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
-2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
+2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64-bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Go to your `tf/custom` folder named `Titan DLC` you created during installation.
 4. Wipe all files inside your `Titan DLC` folder.
 5. Extract the contents of the zip file into the `Titan DLC` folder.
+6. Go to [titan.tf Settings](https://titan.tf/settings/game#sounds) and click on the "Items" tab.
+7. Check the `Custom Item Sounds` checkbox.
 
 ## Troubleshooting
 There may be some issues with your installation preventing you from seeing and hearing the custom content. But before that, make sure the `Custom Item Sounds` checkbox is checked in your [titan.tf Settings](https://titan.tf/settings/game#sounds).
@@ -91,7 +95,7 @@ If you wish to verify that the VPK you currently have was directly obtained from
 
 1. Download the public key file and extract it to your ```C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/bin``` directory.
 2. Extract the contents of the VPK content zip file to your ```C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/bin``` directory.
-3. Click on the folder address on your explorer window and type `cmd` to open command prompt.
+3. Click on the folder address on your explorer window and type `cmd` to open the command prompt.
 4. Type `vpk -k titan.publickey.vdf checksig titan_dlc_12aug2020.vpk` and enter.
 5. It should reply with the following message below. If it failed, the vpk was modified and you should reobtain the package from our platform.
 
