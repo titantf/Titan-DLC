@@ -30,11 +30,15 @@ If you would like an easy one click installation process, connect to our content
 2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Create a folder inside your tf/custom folder named `Titan DLC`.
 4. Extract the contents of the zip file into the newly created `Titan DLC` folder.
+5. Go to [titan.tf Settings](https://titan.tf/settings/game#sounds) and click on the "Items" tab.
+6. Check the `Custom Item Sounds` checkbox.
 
 #### Manual via Google Drive
 1. Click [here](https://drive.google.com/file/d/1KtpJMRXtONS_ZC06o5l57xxyXKcCj_jl/view?usp=sharing) to download the whole pack compiled in VPKs via Google Drive.
 2. Find your `tf/custom` folder location. For example, the standard Team Fortress 2 installation on a 64 bit OS under the C drive looks like this: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 3. Extract the contents of the zip file into your `tf/custom` folder.
+4. Go to [titan.tf Settings](https://titan.tf/settings/game#sounds) and click on the "Items" tab.
+5. Check the `Custom Item Sounds` checkbox.
 
 ### Updating
 ---
@@ -67,7 +71,7 @@ The process is the same as the installation. Simply connect to the content distr
 5. Extract the contents of the zip file into the `Titan DLC` folder.
 
 ## Troubleshooting
-There may be some issues with your installation preventing you from seeing and hearing the custom content. But before that, make sure the `Custom Item Sounds` checkbox is checked in your [titan.tf SEttings](https://titan.tf/settings/game#sounds).
+There may be some issues with your installation preventing you from seeing and hearing the custom content. But before that, make sure the `Custom Item Sounds` checkbox is checked in your [titan.tf Settings](https://titan.tf/settings/game#sounds).
 
 #### Simple Solution
 Type ```snd_restart``` into your Team Fortress 2 developer console.
