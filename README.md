@@ -10,8 +10,11 @@ If you already know how to do this, skip ahead.
 3. Go to the `Local Files` tab.
 4. Click `Browse Local Files`.
 
-#### Automatic (Recommended)
-If you would like an easy one click installation process, connect to our content distributor server (IP: **download.titan.tf:11111**). To connect to a TF2 server via the IP address, type `connect download.titan.tf:11111` into your Team Fortress 2 developer console.
+#### ~~Automatic (Recommended)~~
+~~If you would like an easy one click installation process, connect to our content distributor server (IP: **download.titan.tf:11111**). To connect to a TF2 server via the IP address, type `connect download.titan.tf:11111` into your Team Fortress 2 developer console.~~
+
+> [!WARNING]  
+> The content distributor server has been deprecated. **Why?** TF2 limits the speed at which custom content can download, this causes a significantly longer time to download content through the automatic process as compared to manually installing it yourself.
 
 #### Manual via GitHub #1
 1. Download [GitHub Desktop](https://desktop.github.com/) and install it.
